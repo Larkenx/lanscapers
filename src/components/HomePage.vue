@@ -4,8 +4,8 @@
       <v-parallax src="../assets/data-center.jpg" height="600" dark>
         <v-row align="center" justify="center">
           <v-col class="text-center" cols="12">
-            <h1 class="display-4 mb-4">Local IT Services</h1>
-            <h4 class="display-3">The Lanscapers</h4>
+            <h1 class="display-2 mb-4">We are LAN Scapers</h1>
+            <h4 class="display-1">Empowering local businesses with enterprise IT services.</h4>
           </v-col>
         </v-row>
       </v-parallax>
@@ -92,7 +92,7 @@
                     <v-icon class="blue--text text--lighten-2">mdi-phone</v-icon>
                   </v-list-item-action>
                   <v-list-item-content>
-                    <v-list-item-title>777-867-5309</v-list-item-title>
+                    <v-list-item-title>303-570-3625</v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
                 <v-list-item>
@@ -100,7 +100,7 @@
                     <v-icon class="blue--text text--lighten-2">mdi-map-marker</v-icon>
                   </v-list-item-action>
                   <v-list-item-content>
-                    <v-list-item-title>Chicago, US</v-list-item-title>
+                    <v-list-item-title>Rapid City, South Dakota</v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
                 <v-list-item>
@@ -108,7 +108,7 @@
                     <v-icon class="blue--text text--lighten-2">mdi-email</v-icon>
                   </v-list-item-action>
                   <v-list-item-content>
-                    <v-list-item-title>john@vuetifyjs.com</v-list-item-title>
+                    <v-list-item-title>kylearnoldmiller@gmail.com</v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
               </v-list>
